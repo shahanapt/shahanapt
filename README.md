@@ -6,7 +6,7 @@
 
 
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **reactjs**
 
 - 📫 How to reach me **fshahanapt@gmail.com**
 
